@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Sam
 #### Dad with Daughters who codes on the side
-![Dad with Daughters who codes on the side](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: VUE JS / PHP / Laravel/ CakePHP / JS / HTML / CSS / Objective-C
 
