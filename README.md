@@ -11,6 +11,8 @@ Skills: VUE JS / PHP / Laravel/ CakePHP / JS / HTML / CSS / Objective-C
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+[![wakatime](https://wakatime.com/badge/user/ffc55ee0-d0d1-432f-80eb-2603742d2856.svg)](https://wakatime.com/@ffc55ee0-d0d1-432f-80eb-2603742d2856)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sdevore)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdevore)](https://github.com/anuraghazra/github-readme-stats)
